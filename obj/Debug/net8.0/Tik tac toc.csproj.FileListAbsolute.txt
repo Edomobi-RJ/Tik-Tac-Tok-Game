@@ -1,0 +1,14 @@
+/Users/mac/Documents/CSharpProjects/Tik tac toc/bin/Debug/net8.0/Tik tac toc
+/Users/mac/Documents/CSharpProjects/Tik tac toc/bin/Debug/net8.0/Tik tac toc.deps.json
+/Users/mac/Documents/CSharpProjects/Tik tac toc/bin/Debug/net8.0/Tik tac toc.runtimeconfig.json
+/Users/mac/Documents/CSharpProjects/Tik tac toc/bin/Debug/net8.0/Tik tac toc.dll
+/Users/mac/Documents/CSharpProjects/Tik tac toc/bin/Debug/net8.0/Tik tac toc.pdb
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/Tik tac toc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/Tik tac toc.AssemblyInfoInputs.cache
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/Tik tac toc.AssemblyInfo.cs
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/Tik tac toc.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/Tik tac toc.dll
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/refint/Tik tac toc.dll
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/Tik tac toc.pdb
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/Tik tac toc.genruntimeconfig.cache
+/Users/mac/Documents/CSharpProjects/Tik tac toc/obj/Debug/net8.0/ref/Tik tac toc.dll
